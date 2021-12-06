@@ -1,0 +1,5 @@
+outs:
+- md5: 1a3860fc020248a2858e9b8fcc99039c
+  size: 3606422
+  path: ratings.csv
+  isexec: true
