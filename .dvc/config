@@ -1,8 +1,10 @@
 [core]
-    remote = ftp_remote
+    remote = ftp_public_remot
 ['remote "dvc_remote_google"']
     url = gdrive://1fh3eHJvqpiX5WViwSrGaomyv6lLshZwV
 ['remote "local_remote"']
     url = /Users/chendi/PycharmProjects/dvc_remote
 ['remote "ftp_remote"']
     url = /Volumes/NLP/zcd/dvc_remote
+['remote "ftp_public_remot"']
+    url = /Volumes/NLP/dvc_ftp_remote
