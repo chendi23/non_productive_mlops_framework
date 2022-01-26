@@ -1,0 +1,627 @@
+2021-12-06 12:44:55,949 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 12:44:55,994 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 12:44:56,030 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:06:42,430 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:06:42,480 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:06:42,515 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:10:24,581 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:10:24,626 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:10:24,663 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:14:41,058 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:14:41,109 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:14:41,146 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:17:16,318 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:17:16,363 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:17:16,398 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:17:53,496 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:17:53,547 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:17:53,585 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:20:16,269 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:20:16,314 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:20:16,349 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:20:40,059 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:20:40,104 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:20:40,141 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:23:37,720 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:23:37,765 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:23:37,799 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:24:54,439 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:24:54,487 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:24:54,522 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:26:19,248 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:26:19,297 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:26:19,332 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:26:59,644 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:26:59,689 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:26:59,724 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:27:20,490 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:27:20,534 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:27:20,568 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:28:03,820 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:28:03,864 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:28:03,898 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:28:17,859 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:28:17,903 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:28:17,938 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:30:19,244 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:30:19,288 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:30:19,323 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:30:47,264 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:30:47,309 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:30:47,344 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:32:14,179 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:32:14,225 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:32:14,262 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:32:55,366 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:32:55,410 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:32:55,444 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:33:45,728 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:33:45,775 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:33:45,817 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:33:46,073 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['user_id', 'item_id', 'target', 'sex', 'age', 'org_name', 'seat_id', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'date_time', 'i_class_label', 'i_entities_label']------------------------------------------
+2021-12-06 13:33:46,081 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例                                                                 user_id  ...                                   i_entities_label
+user_id                                                                   ...                                                   
+00f1290d65154c51b5afb38dc5cf6b74 60763  00f1290d65154c51b5afb38dc5cf6b74  ...  ['头盔防弹', 'Patka头盔', '英国军队', '美军', '印军', ' \u30...
+                                 61222  00f1290d65154c51b5afb38dc5cf6b74  ...  ['“多丽丝·米勒”号', '“哈里·S·杜鲁门号”', '布莱恩·麦克格拉斯', '美军'...
+                                 55901  00f1290d65154c51b5afb38dc5cf6b74  ...               ['Joseph Feldman黎明', '阿迪达斯', '萨利纳斯']
+                                 40172  00f1290d65154c51b5afb38dc5cf6b74  ...   ['东布罗夫斯基', '东布罗夫斯基斯', '拜登团队', '罗伯特·莱特希泽', '特朗普']
+                                 18428  00f1290d65154c51b5afb38dc5cf6b74  ...  ['克雷泰伊', '博比尼', '杰罗姆·顾梅', '奥贝维利耶', '689-872956...
+                                 86870  00f1290d65154c51b5afb38dc5cf6b74  ...          ['拉夫·劳伦', '罗德·赛兹', '帕特里斯·卢韦', '约翰斯·霍普金斯']
+
+[6 rows x 15 columns]------------------------------------------
+2021-12-06 13:33:46,082 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 13:42:22,890 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:42:22,936 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:42:22,970 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:42:40,554 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:42:40,603 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:42:40,642 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:43:09,160 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:43:09,204 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:43:09,238 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:43:10,319 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['user_id', 'item_id', 'target', 'sex', 'age', 'org_name', 'seat_id', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 13:43:10,347 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例                                                                 user_id  ... date_diff
+user_id                                                                   ...          
+00f1290d65154c51b5afb38dc5cf6b74 60763  00f1290d65154c51b5afb38dc5cf6b74  ...      7397
+                                 61222  00f1290d65154c51b5afb38dc5cf6b74  ...      7397
+                                 55901  00f1290d65154c51b5afb38dc5cf6b74  ...      7397
+                                 40172  00f1290d65154c51b5afb38dc5cf6b74  ...      7397
+                                 18428  00f1290d65154c51b5afb38dc5cf6b74  ...      7397
+                                 86870  00f1290d65154c51b5afb38dc5cf6b74  ...      7397
+
+[6 rows x 17 columns]------------------------------------------
+2021-12-06 13:43:10,347 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 13:52:09,111 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:52:09,156 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:52:09,190 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:52:12,050 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['index', 'target', 'sex', 'age', 'org_name', 'seat_id', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 13:52:12,053 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例Empty DataFrame
+Columns: [index, target, sex, age, org_name, seat_id, seat_name, position_name, u_keywords_label, u_class_label, category_name, i_class_label, i_entities_label, date_y, date_m, date_diff]
+Index: []------------------------------------------
+2021-12-06 13:52:12,053 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 0
+2021-12-06 13:52:56,418 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:52:56,464 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:52:56,501 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:54:32,914 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:54:32,958 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:54:32,993 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:54:53,391 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:54:53,436 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:54:53,470 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:55:46,202 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:55:46,246 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:55:46,282 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:56:05,675 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:56:05,720 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:56:05,756 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:56:34,763 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:56:34,808 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:56:34,843 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:57:55,378 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 13:57:55,422 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 13:57:55,457 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 13:57:58,403 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_id', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 13:57:58,428 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 15 columns]------------------------------------------
+2021-12-06 13:57:58,428 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 14:05:01,524 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 14:05:01,568 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 14:05:01,602 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 14:05:04,482 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_id', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff', 'missing_feat']------------------------------------------
+2021-12-06 14:05:04,509 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age org_name  ... date_y date_m date_diff missing_feat
+0       1   女  26.0      办公室  ...   19.7      1      7397            0
+1       1  -1    -1       -1  ...   19.7      1      7397            0
+2       1  -1    -1       -1  ...   19.7      1      7397            0
+3       1   女  26.0      办公室  ...   19.7      1      7397            0
+4       1   女  30.0      办公室  ...   19.7      1      7397            0
+5       1   男  18.0      办公室  ...   19.7      1      7397            0
+
+[6 rows x 16 columns]------------------------------------------
+2021-12-06 14:05:04,509 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 92978
+2021-12-06 14:07:22,335 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 14:07:22,383 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 14:07:22,418 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 14:07:25,257 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_id', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 14:07:25,284 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 15 columns]------------------------------------------
+2021-12-06 14:07:25,284 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 14:08:28,233 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 14:08:28,277 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 14:08:28,313 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 14:08:31,250 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 14:08:31,291 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 14:08:31,291 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 14:09:15,656 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 14:09:15,705 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 14:09:15,748 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:30:12,187 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:30:12,229 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:30:12,260 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:32:19,403 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:32:19,447 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:32:19,483 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:33:57,722 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:33:57,764 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:33:57,794 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:34:52,563 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:34:52,606 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:34:52,636 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:34:54,249 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:34:54,256 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:34:54,257 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:36:16,849 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:36:16,920 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:36:17,005 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:36:18,699 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:36:18,708 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:36:18,708 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:39:08,832 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:39:08,877 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:39:08,913 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:39:11,883 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:39:11,910 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:39:11,910 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:41:23,570 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:41:23,613 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:41:23,645 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:41:25,292 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:41:25,299 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:41:25,299 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:42:14,376 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:42:14,421 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:42:14,453 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:42:16,289 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:42:16,313 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1      7397
+3       1   女  26.0  ...   19.7      1      7397
+4       1   女  30.0  ...   19.7      1      7397
+5       1   男  18.0  ...   19.7      1      7397
+7       1   男  28.0  ...   19.7      1      7397
+8       1   女  26.0  ...   19.7      1      7397
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:42:16,313 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:44:51,603 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:44:51,646 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:44:51,677 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:44:53,298 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:44:53,306 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:44:53,306 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:46:21,550 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:46:21,592 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:46:21,624 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:46:23,254 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:46:23,261 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:46:23,261 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:48:24,037 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:48:24,081 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:48:24,116 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:48:26,988 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:48:27,013 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:48:27,013 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:50:58,945 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:50:58,987 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:50:59,017 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:51:00,692 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:51:00,699 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:51:00,699 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:51:45,782 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:51:45,828 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:51:45,861 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:51:47,484 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:51:47,491 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:51:47,491 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:51:53,151 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:51:59,177 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:51:59,178 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:52:02,263 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:52:02,272 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:52:08,306 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:52:08,307 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:52:11,297 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:52:11,305 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:52:17,484 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:52:17,485 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:52:20,487 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:53:23,795 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 15:53:23,838 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 15:53:23,870 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 15:53:25,574 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 15:53:25,582 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 15:53:25,582 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 15:53:31,383 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:53:37,612 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:53:37,614 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:53:40,665 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:53:40,674 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:53:46,903 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:53:46,905 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:53:50,081 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:53:50,090 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:53:56,195 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 15:53:56,196 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 15:53:59,235 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 16:02:47,208 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 16:02:47,253 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 16:02:47,287 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 16:02:50,324 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 16:02:50,356 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 16:02:50,356 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 16:44:30,678 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 16:44:30,726 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 16:44:30,762 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 16:44:33,630 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 16:44:33,655 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 16:44:33,673 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:06:23,687 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:06:23,742 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:06:23,779 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:06:26,837 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:06:26,863 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:06:26,863 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:08:06,103 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:08:06,149 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:08:06,185 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:08:09,146 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:08:09,172 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:08:09,172 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:11:26,313 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:11:26,356 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:11:26,386 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:11:27,996 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:11:28,003 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:11:28,003 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:11:33,773 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:11:39,883 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:11:39,883 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:11:42,923 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:11:42,932 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:11:49,274 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:11:49,276 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:11:52,431 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:11:52,443 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:11:58,660 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:11:58,660 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:12:01,718 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:21:02,195 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:21:02,242 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:21:02,279 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:21:05,261 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:21:05,289 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:21:05,289 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:24:05,671 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:24:05,716 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:24:05,752 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:24:08,623 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:24:08,648 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:24:08,648 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:27:08,157 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:27:08,202 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:27:08,237 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:27:11,234 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:27:11,261 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:27:11,262 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:31:55,530 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:31:55,577 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:31:55,612 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:31:58,571 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:31:58,597 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:31:58,597 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:32:54,137 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:32:54,182 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:32:54,212 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:32:55,835 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:32:55,842 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:32:55,842 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:33:01,548 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:33:07,886 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:33:07,888 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:33:11,175 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:33:11,186 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:33:17,386 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:33:17,388 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:33:20,474 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:33:20,483 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:33:26,655 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:33:26,656 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---begin building tfrecords---
+2021-12-06 19:33:29,747 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ---finish building tfrecords---
+2021-12-06 19:33:37,319 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:33:37,363 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:33:37,398 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:33:40,314 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:33:40,339 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:33:40,339 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 19:38:29,131 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 19:38:29,176 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 19:38:29,210 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 19:38:32,132 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 19:38:32,161 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 19:38:32,161 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-06 20:45:03,706 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-06 20:45:03,760 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-06 20:45:03,801 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-06 20:45:07,183 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-06 20:45:07,219 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-06 20:45:07,219 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-07 09:57:54,144 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-07 09:57:54,192 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-07 09:57:54,229 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-07 09:57:57,610 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-07 09:57:57,637 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-07 09:57:57,638 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-07 10:01:10,485 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-07 10:01:10,534 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-07 10:01:10,573 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-07 10:01:13,806 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-07 10:01:13,834 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-07 10:01:13,834 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-07 10:20:05,588 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-07 10:20:05,633 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-07 10:20:05,667 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-07 10:20:08,572 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-07 10:20:08,597 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-07 10:20:08,597 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
+2021-12-07 10:34:22,069 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_user:92978------------------------------------------
+2021-12-07 10:34:22,113 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_item:92978------------------------------------------
+2021-12-07 10:34:22,148 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------filter_click:92978------------------------------------------
+2021-12-07 10:34:25,012 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列列名['target', 'sex', 'age', 'org_name', 'seat_name', 'position_name', 'u_keywords_label', 'u_class_label', 'category_name', 'i_class_label', 'i_entities_label', 'date_y', 'date_m', 'date_diff']------------------------------------------
+2021-12-07 10:34:25,038 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - ------------------------特征列样例   target sex   age  ... date_y date_m date_diff
+0       1   女  26.0  ...   19.7      1       0.0
+3       1   女  26.0  ...   19.7      1       0.0
+4       1   女  30.0  ...   19.7      1       0.0
+5       1   男  18.0  ...   19.7      1       0.0
+7       1   男  28.0  ...   19.7      1       0.0
+8       1   女  26.0  ...   19.7      1       0.0
+
+[6 rows x 14 columns]------------------------------------------
+2021-12-07 10:34:25,038 - /Users/chendi/PycharmProjects/kg_experimental_thesis/data//log/data_processing.log - DEBUG - 54170
